@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.size-chart-container{
+	border:1px solid black;
+}
+.head{
+	background-color:red;
+	color:white;
+}
